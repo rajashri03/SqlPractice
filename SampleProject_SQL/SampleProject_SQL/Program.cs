@@ -9,7 +9,7 @@ DataTable dtbl = new DataTable();
 Da.Fill(dtbl);
 
 Console.WriteLine("***********Tutorials**********");
-Console.WriteLine("ID\t|TutorialName");
+Console.WriteLine("ID\t | TutorialName");
 foreach (DataRow row in dtbl.Rows)
 {
     Console.WriteLine("----------------------------------------");

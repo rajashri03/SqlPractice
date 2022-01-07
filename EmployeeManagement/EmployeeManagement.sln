@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject_SQL", "SampleProject_SQL\SampleProject_SQL.csproj", "{06C797FC-D9F6-4DAC-9E33-6928B1F4D14C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement", "EmployeeManagement\EmployeeManagement.csproj", "{2C4AF365-B7FF-4F36-ADDE-1DDE51F62129}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06C797FC-D9F6-4DAC-9E33-6928B1F4D14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06C797FC-D9F6-4DAC-9E33-6928B1F4D14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06C797FC-D9F6-4DAC-9E33-6928B1F4D14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06C797FC-D9F6-4DAC-9E33-6928B1F4D14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4AF365-B7FF-4F36-ADDE-1DDE51F62129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4AF365-B7FF-4F36-ADDE-1DDE51F62129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4AF365-B7FF-4F36-ADDE-1DDE51F62129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4AF365-B7FF-4F36-ADDE-1DDE51F62129}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3AFD0A83-F632-4B29-8C6B-B4BB1C6D9D48}
+		SolutionGuid = {7CF383BA-8A02-4649-88C9-1A9468F06443}
 	EndGlobalSection
 EndGlobal
